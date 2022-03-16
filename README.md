@@ -1,2 +1,4 @@
-# ReactJS_Git
+# ReactJS Projects
+
+React JS Projects Repository
  
