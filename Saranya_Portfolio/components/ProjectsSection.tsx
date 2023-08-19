@@ -5,14 +5,7 @@ import SlideUp from "./SlideUp"
 import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
-  {
-    name: "Lakshmi Siddha Clinic",
-    description:
-      "The project designed for Ayurvedic medical Hospital, with the features of booking for an appointment, maintain patient history, updating the ",
-    image: "/lsc.gif",
-    github: "https://github.com/saranyagovindasamy/Djano_Proj/tree/main/lakshmisiddhaclinic/lsc_project",
-    link: "http://www.lsc.arunmadhu.com",
-  },
+
   {
     name: "SaugaTax",
     description: "The project contains all business information about the tax. Used Reactjs and Tailwind CSS to Develop this project",
@@ -27,6 +20,14 @@ const projects = [
     image: "/badclay.png",
     github: "https://github.com/saranyagovindasamy/ReactJS_Proj/tree/main/BadClay_Studio/client",
     link: "https://badclayvfx.vercel.app/",
+  },
+  {
+    name: "Lakshmi Siddha Clinic",
+    description:
+      "The project designed for Ayurvedic medical Hospital, with the features of booking for an appointment, maintain patient history, updating the ",
+    image: "/lsc.gif",
+    github: "https://github.com/saranyagovindasamy/Djano_Proj/tree/main/lakshmisiddhaclinic/lsc_project",
+    link: "http://lsc.arunmadhu.com",
   },
 ]
 
