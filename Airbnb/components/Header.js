@@ -5,7 +5,7 @@ import {
     MenuIcon, 
     UserCircleIcon, 
     UsersIcon 
-} from '@heroicons/react/solid'
+} from '@heroicons/react/24/solid'
 import { useState } from 'react'
 import 'react-date-range/dist/styles.css' //main style file
 import 'react-date-range/dist/theme/default.css' //theme css file
